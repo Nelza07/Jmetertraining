@@ -1,4 +1,4 @@
-name: Run JMeter Tests with Param File2
+name: Run JMeter Tests with Param File3
 
 on:
   push:
