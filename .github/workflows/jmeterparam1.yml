@@ -35,7 +35,7 @@ jobs:
         mv apache-jmeter-5.6.3 ~/jmeter
 
     - name: Download CSV File
-      run: wget -O cred.csv https://raw.githubusercontent.com/Nelza07/Jmetertraining/main/test-data/cred.csv
+      run: wget -O cred.csv https://raw.githubusercontent.com/vasanthshanmugam/jmeter-github/main/test-data/cred.csv
 
     # Run JMeter Test
     - name: Run JMeter Tests
